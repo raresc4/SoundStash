@@ -2,10 +2,11 @@
 
 # Description
 
-This extension is your ultimate companion for offline listening adventures!  Download audio directly from the web and save it for those times you're on a plane ✈️, crushing a workout , or you're on a trip.
+This extension is your ultimate companion for offline listening adventures!  Download audio directly from Youtube and save it for those times you're on a plane ✈️, crushing a workout , or you're on a trip.
 
 # Features
 
+- Downlaods music in a mp3 format
 - Super easy to use, even your grandma could do it
 - Lightweight and won't weigh down your browser
 - Supports Youtube
