@@ -19,7 +19,6 @@ def handle_button_click():
         response = make_response(response)
         response.headers["Access-Control-Allow-Origin"] = "chrome-extension://amndpgbnmnhhkohgmakkecabpdoaikep"
         return response
-    
 
 if __name__ == "__main__":
   app.run(debug=True)

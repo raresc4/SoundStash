@@ -1,11 +1,11 @@
 {
     "manifest_version": 3,
     "name": "SoundStash",
-    "description": "Base Level Extension",
+    "description": "SoundStash is a Chrome Extension that allows you to save your favorite songs from YouTube locally on your computer in a mp3 format.",
     "version": "1.0",
     "action": {
       "default_popup": "main.html",
-      "default_icon": "hello_extensions.png"
+      "default_icon": "youtube-logo48.png"
     },
     "permissions": ["activeTab"]
   }
