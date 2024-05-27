@@ -1,5 +1,5 @@
 function isYoutube(url) {
-    return url.includes('youtube.com');
+    return url.includes("youtube.com/watch");
 }
 
 window.onload = function () {
